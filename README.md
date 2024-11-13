@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+##I’m currently learning how to use github and organize my files!
+##How to reach me: connorknight850@gmail.com
 <!--
 **cjknight19/cjknight19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
